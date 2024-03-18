@@ -1,6 +1,6 @@
 import unittest
 
-from problem1.multiples import multiples_of_3_or_5
+from problem_1.multiples import multiples_of_3_or_5
 
 class TestMultiplesOf3Or5(unittest.TestCase):
     """
